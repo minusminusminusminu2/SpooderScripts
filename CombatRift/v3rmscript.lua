@@ -58,7 +58,8 @@ shared.Settings = {
     },
 
     Misc = {
-        AutoUpgradeSoulStorage = false
+        AutoUpgradeSoulStorage = false,
+        AutoRank = false
     }
 }
 
