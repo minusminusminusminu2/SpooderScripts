@@ -1,6 +1,7 @@
 shared.Settings = {
     Autofarm = {
-        PrioritizeStrongestMobs = true
+        PrioritizeStrongestMobs = true,
+        RangeReduction = 0.5 -- Make this higher if you are not able to hit mobs (not recommended to go below 0.5, the higher you make this the more you will get hit)
     },
 
     Autosell = {
