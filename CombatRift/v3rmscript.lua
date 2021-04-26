@@ -59,7 +59,8 @@ shared.Settings = {
 
     Misc = {
         AutoUpgradeSoulStorage = false,
-        AutoRank = false
+        AutoRank = false,
+        AutoEvolveSwords = true
     }
 }
 
