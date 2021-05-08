@@ -37,7 +37,7 @@ getgenv().EquipEggs = function(ClientData, Logic, IsInTable, MarketplaceEvents, 
 	end
 end
 
-getgenv().PlaceVersion = 3720
+getgenv().PlaceVersion = 3725
 getgenv().Souls = "\226\128\139PurchaseAllSouls"
 getgenv().Class = "\226\128\139PurchaseClass"
 
