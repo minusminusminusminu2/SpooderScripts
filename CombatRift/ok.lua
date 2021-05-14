@@ -74,7 +74,7 @@ getgenv().EvolveSwords = function(ClientData, SwordsInfo, MarketplaceEvents)
                 MarketplaceEvents.EvolveSword(Index)
 
                 wait()
-                return EvolveSwords()
+                return EvolveSwords(ClientData, SwordsInfo, MarketplaceEvents)
             end
         end
     end
@@ -119,7 +119,7 @@ getgenv().EvolveEggs = function(ClientData, PetsModule, MarketplaceEvents)
                 MarketplaceEvents.EvolvePet(Index)
 
                 wait()
-                return EvolveEggs()
+                return EvolveEggs(ClientData, PetsModule, MarketplaceEvents)
             end
         end
     end
