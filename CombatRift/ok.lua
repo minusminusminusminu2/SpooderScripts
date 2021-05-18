@@ -125,7 +125,7 @@ getgenv().EvolveEggs = function(ClientData, PetsModule, MarketplaceEvents)
     end
 end 
 
-getgenv().PlaceVersion = 3733
+getgenv().PlaceVersion = 3746
 getgenv().Souls = "\226\128\139PurchaseAllSouls"
 getgenv().Class = "\226\128\139PurchaseClass"
 getgenv().UseSword = "\226\128\139ActivateSword"
